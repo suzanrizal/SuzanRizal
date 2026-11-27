@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Quality Assurance Engineer** who enjoys making sure software works the way people expect it to — on every browser, every device, and under load.
+I'm a **Aspiring Software Quality Assurance Engineer** who enjoys making sure software works the way people expect it to — on every browser, every device, and under load.
 
 I work across the full testing spectrum: writing and executing manual test cases, building **UI automation with Selenium and Playwright**, automating **Android apps with Appium**, and running **performance tests with Apache JMeter**.
 
