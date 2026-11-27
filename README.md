@@ -42,7 +42,7 @@
 
 <br><br>
 
-**💼 Open to QA Internships & Junior QA Opportunities**
+**💼 Open to Junior QA Opportunities**
 
 *Let's connect and grow together!*
 
