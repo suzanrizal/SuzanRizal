@@ -4,7 +4,7 @@
 
 ### Aspiring QA Engineer
 
-**Manual Testing** &nbsp;·&nbsp; **Automation Testing** &nbsp;·&nbsp; **Learning Every Day**
+**Manual Testing** · **API Testing** · **Automation Testing** · **Learning Every Day**
 
 <br>
 
@@ -16,7 +16,18 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
+---
+
+### 🛠️ Skills & Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,selenium,playwright,postman,mysql,jira,git,github" alt="Tech Stack">
+  <br><br>
+  <img src="https://img.shields.io/badge/Manual%20Testing-2E86DE?style=flat-square">
+  <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square">
+  <img src="https://img.shields.io/badge/Performance%20Testing-D22128?style=flat-square">
+  <img src="https://img.shields.io/badge/Regression%20Testing-2E86DE?style=flat-square">
+</p>
 
 ---
 
